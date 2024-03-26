@@ -1,0 +1,23 @@
+Differences between Document and Window Objects:
+
+1: Window manages browser interactions
+ 
+  Document acts as an interface for content manipulation. 
+
+2:The window object, supported by all browsers, represents the browser’s window
+
+  The Document object is the HTML document that appears in the browser window and 
+  serves as an interface for interacting with the web page’s content
+
+3:The Window object is responsible for managing global variables, functions,
+ and objects, providing methods for browser interaction
+
+ With the help of document objects, we can add dynamic content to our web page
+
+4:A document is an object inside the window object
+
+ The first thing that gets loaded into the browser is the window 
+
+5:we use a document object for manipulation inside the document
+
+the properties related to that window are stored in the window object
